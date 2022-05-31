@@ -16,5 +16,5 @@ The code of constructing the semicircle from scratch.<br>
 Use social, weightlift , good biome and working images for Home_Screen.js and use social_screen2 for the Home_Screen2.js<br>
 
 ## OUTPUT: <br>
-Mainscreen image has the output of the first screen. <br>
-Mainscreen 2 image has the output of the second screen. <br>
+Mainscreen image has the output of the Home screen (Home_Screen.js). <br>
+Mainscreen 2 image has the output of the second screen of Home Screen (Home_Screen2.js). <br>
