@@ -54,7 +54,7 @@ g.fillRect(0,0,176,176); // clear app area
 g.setColor(0,1,0);
 tick(gardening,40,66);
 tick(replay,135,5);
-var weightlift=require("Storage").read("weigtlift.png");
+var weightlift=require("Storage").read("weightlift.png");
 var social=require("Storage").read("social_screen2.png");
 g.drawImage(weightlift,68,111);
 g.drawImage(social,95,65);
