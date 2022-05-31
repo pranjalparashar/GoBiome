@@ -11,3 +11,6 @@ The main screen after the user selects an activity. In this screen, we the semic
 Code for the linear movement of the bad-biome towards the good biome.<br>
 #### 5)Semicircle_Manually.js :<br>
 The code of constructing the semicircle from scratch.<br>
+
+## IMAGES:<br>
+Use social, weightlift , good biome and working images for Home_Screen.js and use social_screen2 for the Home_Screen2<br>
