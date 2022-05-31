@@ -150,7 +150,7 @@ tick(replay,5,95);
 
 var bad_biome=require("Storage").read("bad-biome.png");
 var good_biome=require("Storage").read("good-biome.png");
-var weightlift=require("Storage").read("weigtlift.png");
+var weightlift=require("Storage").read("weightlift.png");
 var social=require("Storage").read("social.png");
 var working=require("Storage").read("working.png");
 
