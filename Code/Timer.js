@@ -102,7 +102,6 @@ function countDown() {
   DisplayCount(false);
 }
 
-
 function TimeEnd() {
 g.setBgColor(0,0,0);
   g.setColor(1,1,1);
