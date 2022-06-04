@@ -18,7 +18,8 @@ This folder has three codes:<br>
 1)Walking.js <br>
 2)Jogging.js <br>
 3)Cycling.js <br>
-
+#### 8)Timer.js :<br>
+This is a timer based on swipe gestures.
 ## IMAGES:<br>
 Use social, weightlift , good biome and working images for Home_Screen.js and use social_screen2 for the Home_Screen2.js<br>
 Control Buttons folder contains: <br>
